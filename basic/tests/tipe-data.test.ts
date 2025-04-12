@@ -8,8 +8,8 @@ describe('Data Type', function () {
         console.info(balance)
         console.info(isVip)
 
-        name = 1000
-        balance = 'Jeane'
-        isVip =1010
+        // name = 1000
+        // balance = 'Jeane'
+        // isVip =1010
     })
 })
